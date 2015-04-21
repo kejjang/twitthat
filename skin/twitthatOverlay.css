@@ -1,0 +1,11 @@
+.twitthat-item{
+  list-style-image: url("chrome://twitthat/skin/twitthat_btn_small.png"); 
+}
+
+#twitthat-button{
+  list-style-image: url("chrome://twitthat/skin/twitthat_btn_large.png"); 
+}
+
+toolbar[iconsize="small"] #twitthat-button{
+  list-style-image: url("chrome://twitthat/skin/twitthat_btn_small.png"); 
+}
